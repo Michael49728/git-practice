@@ -1,1 +1,2 @@
 The IDEA IS TO BE ABLE TO PRACTICE the pull if someone has update
+SEEMS LIKE IT IS WORKING cat test.txt
